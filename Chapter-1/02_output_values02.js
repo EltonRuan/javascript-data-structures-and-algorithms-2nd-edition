@@ -1,5 +1,5 @@
-Alert ('Texto aqui'); // faz um alerta no navegador
+Alert ('Texto aqui');
 
-console.log('Texto aqui'); // exibe o texto na aba console
+console.log('Texto aqui');
 
-document.write('Texto aqui'); //  renderiza no navegador
+document.write('Texto aqui');
